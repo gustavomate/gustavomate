@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+Meu nome é Gustavo Mateus de Souza Fonseca
 
 Estou estudando na Alura
 
@@ -9,6 +9,6 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 Você pode entrar em contato comigo 📫
 
-alurastartestudante@email.com
+00001125237545sp@aluno.educacao.sp.gov.br
 
-@alurastartestudante
+00001125237545sp
